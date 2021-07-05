@@ -55,16 +55,16 @@ sub{
 }
 
     #service-one{
-        border-image: linear-gradient(cyan,blue);
+        border-image: linear-gradient(rgb(241, 169, 52),rgba(216, 75, 32, 0.765));
         border-image-slice: 1;
         }
     
     #service-two{
-        border-image: linear-gradient(cyan,blue);
+        border-image: linear-gradient(rgb(241, 169, 52),rgba(216, 75, 32, 0.765));
         border-image-slice: 1;
         }
         #service-three{
-            border-image: linear-gradient(cyan,blue);
+            border-image: linear-gradient(rgb(241, 169, 52),rgba(216, 75, 32, 0.765));
             border-image-slice: 1;
             }
         
