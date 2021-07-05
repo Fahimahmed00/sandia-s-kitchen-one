@@ -1,0 +1,70 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 10px 50px;
+    box-shadow: 10px 20px 30px 20px rgba(165, 160, 160, 0.413) ;
+}
+ .upper-bar{
+    background-image: linear-gradient(rgba(255, 166, 0, 0.662),rgba(255, 0, 0, 0.538));
+    border-radius: 5px;
+    padding: 25px 1px 15px 8px;
+}
+h1{font-size: 35px;}
+h3{font-size: 20px;}
+sub{
+    font-size: 15px;
+}
+
+.my-dev{
+    display: flex;
+}
+.name{
+    color: orange;
+}
+.width-p{
+    width: 35%;
+    padding: 25px;
+    
+    
+}
+.width-p img{
+    width: 55%;
+    
+}
+.special{
+    font-size: 30px;
+    background: -webkit-linear-gradient(#251f18ae, #dd6f15);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+.top-banner{
+    background-image: url(image/banner.png);
+    height: 300px;
+}
+.service-item{
+    width: 50%;
+    margin: 1%;
+    padding: 12px;
+    box-shadow: 10px 5px 15px 8px rgba(97, 92, 92, 0.496);
+    border-radius: 7px;
+     border-left: 7px solid;
+
+
+}
+
+    #service-one{
+        border-image: linear-gradient(cyan,blue);
+        border-image-slice: 1;
+        }
+    
+    #service-two{
+        border-image: linear-gradient(cyan,blue);
+        border-image-slice: 1;
+        }
+        #service-three{
+            border-image: linear-gradient(cyan,blue);
+            border-image-slice: 1;
+            }
+        
