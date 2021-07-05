@@ -67,4 +67,8 @@ sub{
             border-image: linear-gradient(rgb(241, 169, 52),rgba(216, 75, 32, 0.765));
             border-image-slice: 1;
             }
+            footer{
+                text-align: center;
+                margin-top: 50px;
+            }
         
